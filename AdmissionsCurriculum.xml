@@ -1,0 +1,73 @@
+<UNITeProject>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UniteMethods />
+  <CodeBehind />
+  <CodeBehindPath />
+  <ProjectPath />
+  <PartialCodeBehindPath />
+  <Includes />
+  <PublishToWeb>false</PublishToWeb>
+  <Mobile>false</Mobile>
+  <Rights>R</Rights>
+  <Reference />
+  <IiVersion>4.50.500.1836</IiVersion>
+  <ProfessionalEdition>false</ProfessionalEdition>
+  <KeyFile>C:\Program Files (x86)\Education Software Solutions Ltd\UNIT-e Information Interface\Support Files\unitedemo.snk</KeyFile>
+  <ApplicationName>Admissions Curriculum</ApplicationName>
+  <Filename>\\rg.local\Users\Home Drives\Lucas.Puttock\Test\Admissions Curriculum.EXE</Filename>
+  <Path>\\rg.local\Users\Home Drives\Lucas.Puttock\Test</Path>
+  <UIPlatform>Windows</UIPlatform>
+  <ReleasePath />
+  <Version>1.00.000.000</Version>
+  <Licence />
+  <DesignLicence />
+  <Module />
+  <Process />
+  <Notes />
+  <DevelopersNotes />
+  <CompilerOptions />
+  <LayoutTemplate>false</LayoutTemplate>
+  <ContextArgumentsRequired>false</ContextArgumentsRequired>
+  <RedirectPageReference />
+</Project>
+  <Object type="UNITe.InformationInterface.Controls.HostedControl, UNITe.InformationInterface.Controls, Version=4.50.500.1836, Culture=neutral, PublicKeyToken=0362e074e76a26ea" name="UNITeForm" children="Controls">
+    <Object type="UNITe.InformationInterface.Controls.StatusBar, UNITe.InformationInterface.Controls, Version=4.50.500.1836, Culture=neutral, PublicKeyToken=0362e074e76a26ea" name="statusBar1" children="Controls">
+      <Property name="Dock">Bottom</Property>
+      <Property name="Location">0, 377</Property>
+      <Property name="Name">statusBar1</Property>
+      <Property name="Size">600, 23</Property>
+      <Property name="TabIndex">0</Property>
+    </Object>
+    <Object type="UNITe.InformationInterface.Controls.UNITeMainMenu, UNITe.InformationInterface.Controls, Version=4.50.500.1836, Culture=neutral, PublicKeyToken=0362e074e76a26ea" name="uniTeMainMenu1" children="Controls">
+      <Property name="HelpMenuItems" />
+      <Property name="EnablePreferences">True</Property>
+      <Property name="Product">
+      </Property>
+      <Property name="ToolMenuItems">
+        <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAGxVTklUZS5JbmZvcm1hdGlvbkludGVyZmFjZS5Db250cm9scywgVmVyc2lvbj00LjUwLjUwMC4xODM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTAzNjJlMDc0ZTc2YTI2ZWEEAQAAAL8BU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tVTklUZS5JbmZvcm1hdGlvbkludGVyZmFjZS5Db250cm9scy5NZW51SXRlbSwgVU5JVGUuSW5mb3JtYXRpb25JbnRlcmZhY2UuQ29udHJvbHMsIFZlcnNpb249NC41MC41MDAuMTgzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0wMzYyZTA3NGU3NmEyNmVhXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAAC5VTklUZS5JbmZvcm1hdGlvbkludGVyZmFjZS5Db250cm9scy5NZW51SXRlbVtdAgAAAAgICQMAAAAAAAAAAAAAAAcDAAAAAAEAAAAAAAAABCxVTklUZS5JbmZvcm1hdGlvbkludGVyZmFjZS5Db250cm9scy5NZW51SXRlbQIAAAAL</Binary>
+      </Property>
+      <Property name="Context">II</Property>
+      <Property name="ShowJump">True</Property>
+      <Property name="ShowReports">True</Property>
+      <Property name="EmbeddedMenusKey" />
+      <Property name="HideRibbonShadow">False</Property>
+      <Property name="Ribbon">False</Property>
+      <Property name="AutoSize">True</Property>
+      <Property name="BackColor">White</Property>
+      <Property name="Dock">Top</Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Name">uniTeMainMenu1</Property>
+      <Property name="Size">600, 49</Property>
+      <Property name="TabIndex">1</Property>
+    </Object>
+    <Property name="Licence">
+    </Property>
+    <Property name="Platform">Windows</Property>
+    <Property name="Icon">
+      <Binary>AAABAAIAEBAQAAAAAAAoAQAAJgAAACAgEAAAAAAA6AIAAE4BAAAoAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAMDAwACAgIAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AMzMzMzMzMzMz///9/////zP///xH////M///3d3///8z/////////zP//94iH///M/3/xEREY/8zxf/iIiBGPzPF/////8Y/M/3/xEY/4/8z///cRf///zP/////////M///3/////8z///cR////zP///3/////MzMzMzMzMzMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAgAAAAQAAAAAEABAAAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAwMDAAICAgAAAAP8AAP8AAAD//wD/AAAA/wD/AP//AAD///8AzMzMzMzMzMzMzMzMzMzMzM////////////////////zP////////+H/////////8z////////4EX/////////M////////gREX////////zP//////+BEREX///////8z//////3h///d////////M//////f/////////////zP///////////////////8z////////////////////M////f///+IEYd//3////zP//93//9xERERGH8X///8z//3j///EREREREREX///M//cX//+BEREREREREX//zP9xF///gREREREREREX/8z3ER///3d3d3eIiIEREX/M9xEf///////////3ERF/zP9xH////////////xEX/8z/+Bf//4iIiIh///8Rf//M//+H//9xERERH///F///zP//9///8RERER//93///8z///////cRERF////////M////////94h/////////zP///////////////////8z////////////////////M////////////////////zP//////+Id3d3///////8z///////+BERj////////M////////+BGP////////zP////////+I/////////8z////////////////////MzMzMzMzMzMzMzMzMzMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</Binary>
+    </Property>
+    <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+    <Property name="Name">UNITeForm</Property>
+    <Property name="Size">600, 400</Property>
+  </Object>
+</UNITeProject>
